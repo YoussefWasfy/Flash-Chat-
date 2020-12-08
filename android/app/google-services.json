@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707605612558",
+    "firebase_url": "https://flash-chat-3302a.firebaseio.com",
+    "project_id": "flash-chat-3302a",
+    "storage_bucket": "flash-chat-3302a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707605612558:android:e4df9722f7f8590f5d945f",
+        "android_client_info": {
+          "package_name": "com.youssefwasfy.flashchatflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707605612558-rm2s9g3jilqsf9scjc3tntmrvc0sjtci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKsfY55NnvrhXAKcYONwsLsoqe0vT9BqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707605612558-rm2s9g3jilqsf9scjc3tntmrvc0sjtci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "707605612558-igenv741qreub4nkb6srunbbcbleo0p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.YoussefWasfy.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
